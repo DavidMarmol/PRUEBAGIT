@@ -1,0 +1,7 @@
+Epicas: son tareas grandes
+Historias de usuario: como el desglose de la solicitud de requerimientos de la tarea grande
+			
+		ESTRUCTURA
+		Como, Quiero y Para
+
+Cada ventana es una historia
